@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_7c828a5027b6abd59cc8335478157e6fa32d8454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_375b32e2a7bd2375e92ab1d8c122291d3d27968e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_9a5cbd075ca54d9d7195960e22ff45fa0159bc3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_3f765fd84ee37b3f1535e14bbd4fd1183d02335b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/com.azoft.carousellayoutmanager/carousel/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2113d01ea30cb351cdb56b41a6e8a2ad25ee3bf2">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/com.azoft.carousellayoutmanager-carousel-1.1.5_afde23ed8b40ee958b9c9dcfe47458775ad86760.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_fa94a74dc882e06f93d0d8a4097fd308654e226d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_538cfdcc45fae824852a4e6ff69771ea88d0abaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.0.0_9d302d5ae56c417f0822fdcdf1d825bfc30f7f13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_21218af214be2975f60bb512c4ebaa2ad6172dfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_f727afa3fc2002d1f302faab3c7ca77978cb3fa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/android/Documents/android-snippets/Android-Carousel-with-Circular-Image-and-Card-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6449f75ca1b4e878bdad15383bf509f99c468fe4.jar" />
+    </item>
+
+</items>
